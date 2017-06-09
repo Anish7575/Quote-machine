@@ -1,0 +1,53 @@
+.background{
+    background-image: url(background1.jpg);
+    
+}
+.heading{
+    position:absolute;
+    border-style:groove;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-color;
+    left: 400px;
+    font-size: 35px;
+    color:darkred;
+}
+.description{
+    position: absolute;
+    left: 485px;
+    top: 205px;
+}
+.quote{
+    font-size: 20px;
+    font-style: oblique;
+    position: absolute;
+    left:230px;
+    top:400px;
+    color: brown;
+    border-style: double;
+    border-radius: 15px;
+    border-color: chocolate;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 2px 2px 1px black;
+    border-width: thick;
+}
+.subhead{
+    position: relative;
+    left:360px;
+    top:150px;
+    font-size:25px;
+    color:darkgoldenrod;
+}
+.myButton{
+    position:absolute;
+    left:510px;
+    background-color:cornflowerblue;
+    top:300px;
+    color:darkblue;
+    border-style: groove;
+    border-radius: 15px;
+    padding: 0px 50px 0px 50px;
+    border-color: darkblue;
+}
